@@ -210,3 +210,5 @@ __marimo__/
 data/
 # Ignore all html files in the outputs directory, but not the directory itself
 outputs/*.html
+# Ignore the map.html file in the notebooks directory, but not the directory itself
+notebooks/map.html
