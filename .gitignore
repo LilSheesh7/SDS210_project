@@ -212,3 +212,5 @@ data/
 outputs/*.html
 # Ignore the map.html file in the notebooks directory, but not the directory itself
 notebooks/map.html
+# Ignore .env file containing the API key, but not the file itself
+.env
