@@ -69,4 +69,4 @@ pip install geopandas folium plotly requests python-dotenv shapely numpy pandas
 ## Author
 
 Simon Rüegg  
-Project was made for the course SDS210 at the Depertment of Geography at the University of Zurich
+This project was made for the course SDS210 at the Depertment of Geography at the University of Zurich
