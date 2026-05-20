@@ -1,214 +1,214 @@
 NAME,fire_count
-Russia,13444
-Mexico,10065
-India,9685
-Dem. Rep. Congo,9326
-Australia,4372
-United States of America,4237
-Madagascar,3507
-Guinea,2625
-Angola,2368
-Brazil,2074
-Iran,1999
-China,1948
-Honduras,1546
-Venezuela,1514
-Pakistan,1209
-Mali,1185
-Zambia,1144
-Iraq,1032
-Kazakhstan,941
-Guatemala,937
-South Africa,886
-Argentina,844
-Bolivia,835
-Turkmenistan,787
-Chile,701
-Algeria,659
-Libya,560
-Senegal,554
-Saudi Arabia,521
-Nicaragua,506
-Congo,486
-Japan,409
-Ethiopia,394
-Nigeria,380
-Sudan,367
-Guinea-Bissau,366
-Egypt,365
-Tanzania,360
-United Arab Emirates,359
-S. Sudan,341
-Laos,326
-Mozambique,285
-Nepal,282
-Zimbabwe,282
-Philippines,266
-Papua New Guinea,250
-Belize,236
-Vietnam,227
-Indonesia,226
-Canada,222
-Oman,218
-Ukraine,214
-Sierra Leone,214
-Colombia,202
-Turkey,194
-Myanmar,182
-Peru,177
-Germany,159
-Paraguay,151
-Italy,120
-Central African Rep.,120
-South Korea,118
-Côte d'Ivoire,111
-Qatar,109
-Chad,108
-Thailand,107
-Syria,100
-Uzbekistan,89
-Niger,82
-Gabon,77
-Gambia,77
-Kuwait,72
-New Zealand,69
-Malawi,66
-Liberia,64
-France,62
-Burkina Faso,61
-Spain,60
-Namibia,57
-Cuba,55
-Ecuador,51
-Benin,45
-Cameroon,44
-Dominican Rep.,43
-Uruguay,41
-Yemen,39
-Mongolia,37
-Netherlands,37
-Cambodia,37
-Austria,36
-Kenya,33
-Ghana,33
-El Salvador,30
+India,7490
+Russia,6902
+Mexico,5827
+Dem. Rep. Congo,5557
+Madagascar,2676
+United States of America,2251
+Australia,2167
+China,1598
+Angola,1529
+Guinea,1419
+Brazil,1123
+Honduras,1081
+Pakistan,953
+Iran,926
+Venezuela,829
+Guatemala,672
+Mali,619
+Nicaragua,617
+Zambia,581
+Kazakhstan,478
+Argentina,468
+Turkmenistan,443
+Iraq,420
+South Africa,401
+Algeria,395
+Chile,351
+Bolivia,334
+Ethiopia,309
+Senegal,297
+Myanmar,295
+Congo,287
+Libya,287
+Nigeria,276
+Philippines,271
+Laos,262
+Saudi Arabia,251
+Sudan,245
+Papua New Guinea,240
+Egypt,238
+Japan,216
+Guinea-Bissau,214
+Mozambique,209
+Indonesia,205
+Nepal,202
+S. Sudan,201
+Tanzania,199
+Vietnam,197
+Sierra Leone,177
+Ukraine,163
+Belize,151
+Peru,147
+Colombia,144
+Oman,143
+Zimbabwe,137
+Turkey,127
+Canada,122
+Thailand,106
+Italy,96
+Central African Rep.,95
+Côte d'Ivoire,92
+United Arab Emirates,87
+Paraguay,87
+Germany,84
+Chad,82
+New Zealand,61
+South Korea,59
+Spain,57
+Gabon,56
+Syria,53
+Gambia,52
+Niger,49
+El Salvador,48
+Uzbekistan,48
+Malawi,47
+Burkina Faso,42
+Cuba,41
+Liberia,41
+Ecuador,40
+Benin,39
+France,39
+Qatar,37
+Cambodia,35
+Cameroon,32
+Namibia,30
 Poland,30
-Belarus,30
-Portugal,28
-Morocco,27
-Costa Rica,24
-Tunisia,23
-Uganda,21
-Mauritania,20
-United Kingdom,18
-Eritrea,18
-Malaysia,18
-eSwatini,17
-Romania,16
-Belgium,16
-Greece,16
-Trinidad and Tobago,15
-Jordan,14
-Botswana,14
-North Korea,14
+Ghana,29
+Kuwait,29
+Uruguay,27
+Dominican Rep.,26
+Morocco,25
+Tunisia,25
+Malaysia,25
+Yemen,22
+Netherlands,21
+Kenya,21
+Belarus,20
+Portugal,19
+Uganda,19
+Mongolia,17
+Costa Rica,16
+Greece,14
+Trinidad and Tobago,14
+United Kingdom,13
 Sweden,13
 Finland,12
-Kyrgyzstan,12
-Slovakia,12
-Panama,11
+Romania,12
+Mauritania,12
+Austria,12
 Taiwan,11
-Israel,10
-Vanuatu,10
+Jordan,11
+Eritrea,11
 Togo,10
-Antarctica,9
-Bulgaria,7
-Bangladesh,7
-Norway,7
+Slovakia,10
+Israel,9
+eSwatini,8
+Panama,8
+Serbia,8
+Belgium,7
+Kyrgyzstan,7
+Palestine,6
+Norway,6
+Bulgaria,6
+Czechia,6
 Moldova,6
-Haiti,6
-Heard I. and McDonald Is.,6
-Azerbaijan,5
-Palestine,5
-Denmark,5
+Bangladesh,6
+North Korea,6
 Solomon Is.,5
-Switzerland,4
-North Macedonia,4
-Puerto Rico,4
-Serbia,4
-Czechia,4
+Haiti,5
+Botswana,5
+Croatia,4
+Azerbaijan,4
+Antarctica,4
+Denmark,4
+Slovenia,4
+Hungary,4
+Puerto Rico,3
+New Caledonia,3
+Albania,3
 Somalia,3
-Burundi,3
+Vanuatu,3
 Barbados,3
-Croatia,3
-Slovenia,3
-Georgia,3
-Hungary,3
-Suriname,2
-Afghanistan,2
+Jamaica,3
+Fiji,2
 Sri Lanka,2
-Albania,2
-Ireland,2
-Tajikistan,2
-Latvia,2
-Singapore,2
-Tonga,2
-Jamaica,2
+Heard I. and McDonald Is.,2
 Rwanda,2
-Kosovo,2
-Guyana,1
-Bahrain,1
+Tajikistan,2
+Suriname,2
+Ireland,2
+Afghanistan,2
+Burundi,2
+Switzerland,2
+Kosovo,1
 Armenia,1
-Somaliland,1
-N. Cyprus,1
-Lesotho,1
-Fiji,1
+North Macedonia,1
+Singapore,1
+Tonga,1
 Bahamas,1
-Clipperton I.,0
-Bajo Nuevo Bank,0
+Bahrain,1
+Guyana,1
+Latvia,1
+N. Cyprus,1
+Georgia,1
+Lesotho,1
+Somaliland,1
+Micronesia,0
+San Marino,0
+Liechtenstein,0
+Djibouti,0
+Falkland Is.,0
 Guam,0
 N. Mariana Is.,0
 Coral Sea Is.,0
 Spratly Is.,0
-American Samoa,0
-Palau,0
-Niue,0
-Dhekelia,0
-Lebanon,0
-Micronesia,0
-S. Geo. and the Is.,0
-Falkland Is.,0
-Cyprus,0
+Clipperton I.,0
 Macao,0
 Ashmore and Cartier Is.,0
-Bhutan,0
-Estonia,0
-Bosnia and Herz.,0
-USNB Guantanamo Bay,0
-Brazilian I.,0
-San Marino,0
+Bajo Nuevo Bank,0
+S. Geo. and the Is.,0
+Dhekelia,0
+Cyprus,0
+Lebanon,0
+Niue,0
+American Samoa,0
+Palau,0
+Luxembourg,0
 Timor-Leste,0
-Brunei,0
-Djibouti,0
-Montenegro,0
-Andorra,0
-Liechtenstein,0
 Monaco,0
-Bir Tawil,0
-Baikonur,0
-Akrotiri,0
+Montenegro,0
+Brazilian I.,0
+USNB Guantanamo Bay,0
+Bosnia and Herz.,0
+Brunei,0
+Andorra,0
 Southern Patagonian Ice Field,0
-Siachen Glacier,0
-Hong Kong,0
+Akrotiri,0
+Bir Tawil,0
+Eq. Guinea,0
 Vatican,0
 Cyprus U.N. Buffer Zone,0
+Siachen Glacier,0
+Baikonur,0
+Hong Kong,0
+St-Martin,0
+Bhutan,0
+Gibraltar,0
 Sint Maarten,0
 Lithuania,0
-Eq. Guinea,0
-St-Martin,0
-Luxembourg,0
-Gibraltar,0
-Curaçao,0
-New Caledonia,0
+Estonia,0
+Greenland,0
 Fr. Polynesia,0
 Pitcairn Is.,0
 Fr. S. Antarctic Lands,0
@@ -219,11 +219,11 @@ Grenada,0
 St. Vin. and Gren.,0
 Saint Lucia,0
 Dominica,0
-Aruba,0
+Curaçao,0
 Turks and Caicos Is.,0
 St. Pierre and Miquelon,0
 Iceland,0
-Greenland,0
+Aruba,0
 W. Sahara,0
 St-Barthélemy,0
 U.S. Virgin Is.,0
