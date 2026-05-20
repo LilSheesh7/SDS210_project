@@ -1,7 +1,7 @@
 # Fire Mapping
 
 ## Description   
-An interactive map, which provides data of satellite fire detections from NASA FIRMS API of the last 5 days. Provides maps of spatial distribution of fires and its density per country.
+An interactive map, which uses data of satellite fire detections from NASA FIRMS API of the last 5 days to visualize maps of spatial distribution of fires and its density per country and for the whole globe.
 
 ---
 
@@ -18,25 +18,25 @@ An interactive map, which provides data of satellite fire detections from NASA F
 
 ## Setup instructions
 
-### Clone the repository
+### 1. Clone the repository
 ```bash
 git clone https://github.com/LilSheesh7/SDS210_project.git
 cd SDS210_project
 ```
 
-### Get a NASA FIRMS API Key
+### 2. Get a NASA FIRMS API Key
 1. Go to https://firms.modaps.eosdis.nasa.gov/api/map_key/  
 2. Register and make a copy of the map key  
 Note: The NASA FIRMS API Key is free and limited to 5'000 transactions per 10-minute interval
 
-### Create a ".env" file
+### 3. Create a ".env" file
 Create a file called .env in the root of the project and add your key there
 ```
 FIRMS_API_KEY=your_api_key_here
 ```
 Never commit your .env file. It is listed in the .gitignore 
 
-### Install libraries
+### 4. Install libraries
 If you use Anaconda all packages are available via conda-forge:
 ```bash
 conda install -c conda-forge geopandas folium plotly shapely python-dotenv
@@ -46,7 +46,7 @@ Alternativly, you can use pip:
 pip install geopandas folium plotly requests python-dotenv shapely numpy pandas
 ```
 
-### Run the notebook
+### 5. Run the notebook
 1. Open notebooks/fire_mapping.ipynb and run from top to bottom  
 2. The outputs folder is created automatically on the first run.
 
@@ -68,5 +68,5 @@ pip install geopandas folium plotly requests python-dotenv shapely numpy pandas
 
 ## Author
 
-Simon Rüegg
+Simon Rüegg  
 Project was made for the course SDS210 at the Depertment of Geography at the University of Zurich
